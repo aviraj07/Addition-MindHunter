@@ -1,1 +1,1 @@
-# Addtion-MindHunter
+# Addition-MindHunter
