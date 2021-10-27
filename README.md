@@ -16,4 +16,4 @@ You just need a browser to run this application.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Acknowledgement
-@brianyu28 from CS50 Web Programming with Python and Javascript.
+[Brian](https://github.com/brianyu28) from CS50 Web Programming with Python and Javascript.
