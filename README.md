@@ -17,3 +17,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Acknowledgement
 [Brian](https://github.com/brianyu28) from CS50 Web Programming with Python and Javascript.
+
+![Preview](./ezgif.com-gif-maker(5).gif)
